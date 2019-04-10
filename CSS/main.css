@@ -1,0 +1,60 @@
+.body{
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar{
+    border-bottom: blue 3px solid;
+    opacity: 0.8;
+}
+
+/* .fas{
+    font-size: 30px solid;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white;
+    color: blue;
+} */
+
+#home-section{
+background: url(../IMAGES/social.jpeg) no-repeat; 
+   background-size: cover;
+   background-attachment: fixed;
+   min-height: 700px;
+}
+
+.dark-overlay{
+background-color: rgba(0,0,0,0.7);
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+min-height: 100%;
+
+}
+
+/* .display-4{
+ text-align: center;
+ font-size: 30px;   
+} */
+
+
+.home-inner{
+    padding-top: 150px; 
+}
+
+.fa{
+    font-size: 30px solid;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #333;
+    color:white;
+}
+
+.fas{
+    font-size: 30px solid;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white;
+    color: blue;
+}
